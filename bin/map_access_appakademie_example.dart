@@ -38,6 +38,7 @@ void main() {
 
   print(company[0][1]["Content Lead"]);
   print(company[2][1]["Alex"]);
+  String hello = "Hello";
 
   Map<String, dynamic> sozialesNetzwerk = {
     'benutzer': [
